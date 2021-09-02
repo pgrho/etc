@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFrameworks>netstandard2.0</TargetFrameworks>
+    <Authors>shipwreck.jp</Authors>
+    <Description>Japanese Expressway Toll Booth Code Resolver</Description>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Copyright>(c)2021 shipwreck.jp</Copyright>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageProjectUrl>https://github.com/pgrho/etc</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/pgrho/etc</RepositoryUrl>
+    <NeutralLanguage>ja</NeutralLanguage>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="..\..\tollbooth.tsv" Link="tollbooth.tsv" />
+  </ItemGroup>
+
+</Project>
