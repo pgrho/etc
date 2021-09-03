@@ -4,7 +4,9 @@ ETCの料金所番号から名称を取得するためのデータファイル
 
 ## データファイル
 
-出典：[NEXCO西日本](https://www.w-nexco.co.jp/etc/maintenance/pdfs/list01.pdf)@2021/06/30
+### 出典
+- [NEXCO西日本](https://www.w-nexco.co.jp/etc/maintenance/pdfs/list01.pdf)@2021/06/30
+- [首都高速道路](https://www.shutoko.jp/fee/tollbooth/)@2020/03/22
 
 誰か助けてくれ
 
